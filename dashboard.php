@@ -309,7 +309,7 @@ function buildPaginationUrl($page, $per_page) {
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://kit.fontawesome.com/406ccee5fc.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/xxxxx.js" crossorigin="anonymous"></script>
     <script>
         function changePerPage(perPage) {
             const url = new URL(window.location);
@@ -319,4 +319,5 @@ function buildPaginationUrl($page, $per_page) {
         }
     </script>
 </body>
+
 </html>
